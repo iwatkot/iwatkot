@@ -22,6 +22,9 @@ Ok, enough of this. Let's get to the point.
 - **Tools**: Git, Docker, Portainer, Metabase.
 - **Cloud**: AWS, DigitalOcean.
 - **Networking**: HTTP, TLS, WebSocket, REST API.
+- **Other**: Linux, Bash, Nginx, Certbot, RabbitMQ, CI/CD, GitHub Actions.
+- **Soft skills**: Teamwork, communication, problem-solving, adaptability, time management, attention to detail.
+- **Languages**: English (C1), Russian (native).
 
 I have extensive experience in building web applications, APIs, designing and implementing SDKs from scratch and also a huge experience with working with all kinds of imageries and geospatial data. I have a strong background in building and maintaining complex systems, and I'm always looking for new challenges to tackle.
 
