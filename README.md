@@ -33,7 +33,8 @@ I have extensive experience in building web applications, APIs, designing and im
 - [Roadmap.sh](https://roadmap.sh/u/iwatkot)
 - [Certified Python Developer](https://verify.w3schools.com/62F5EI7L7)
 - [Certified SQL Developer](https://verify.w3schools.com/1OO72DMUMB)
-- [Network Engineering](https://www.udemy.com/certificate/UC-7ee618b4-07c8-426c-a01c-a0b2bce822f1/)
+- [Network Engineering](https://www.udemy.com/certificate/UC-7ee618b4-07c8-426c-a01c-a0b2bce822f1)
+- [Async Python](https://www.udemy.com/certificate/UC-e8056c59-2963-48d8-bae8-cb96bdfcd719)
 
 ### Showcase repositories
 
