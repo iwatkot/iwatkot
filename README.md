@@ -1,42 +1,48 @@
-## Hi there! I'm Stan!
+## Hi! I'm Stan 👋
 
-I'm a software engineer with a passion for building things. <<< That's what Copilot suggested, it's kinda True (yep, with a capital T, you know what I mean), but at the same time, it does not describe me best.<br>
-I'm a full-stack software engineer with a passion for making complex things simple. Yep, that's it. I believe that all coders should remember that they're here to make the world a better place, so other people can do something very, very hard, but with a simple tool. So we hide billions of lines of code behind a couple of buttons, and somewhere, someone can do something very important. Of course, it's not always a world-saving thing, but it's always a good thing. Even if we're just making a delivery of a pizza faster, automating the generation of maps for some game (know one guy), or building AI tools that save millions of people from starvation.<br>
-So, yep, that's what I'm thinking about, how coding skills should be used. And that's what I'm trying to do in my everyday work.<br>
-<br>
-And now let's make the world a better place together! 🌍
+I'm a software engineer. That's the short and slightly boring version.
+
+The honest version is that I care a lot about what coders can do for people.
+
+I believe people are here to create. Our time and attention are the most valuable resources we have, and it genuinely hurts to see them spent on repeating steps, moving data from one place to another, and doing work a machine should have handled for us years ago. People are astonishingly good at imagining, judging, caring, and making something new. We should not waste that by asking them to behave like slow computers.
+
+I want to automate everything that does not deserve a human mind. Not to squeeze more output from people, but to give them more of their lives back. Let software carry the repetition, the complexity, and the boring mechanical work. Let the human carry the idea.
+
+That is the part of coding that still feels a little like magic to me. We can hide millions of decisions and a frankly unreasonable amount of code behind a couple of buttons, and suddenly someone can do something that was difficult, frustrating, or completely out of reach before.
+
+Not everything we build has to save the world. Sometimes it helps a pizza arrive faster. Sometimes it turns a real place into a world someone can play in (I happen to know a guy). But if it gives someone time back, helps them create something, or makes one annoying part of life disappear, then it matters.
+
+This is also why I care about architecture, reliability, and good interfaces. Not because they look impressive on a diagram. Because there is a real person at the other end, and they should not need to know how much complexity, panic, and coffee went into making that button work.
+
+I want to build software that is ambitious and complicated on my side, then clear and almost boring on yours. In the best possible way.
+
+Let's make something that matters. 🌍
 
 ---
 
-Ok, enough of this. Let's get to the point.
+### What I actually do
 
-### Skills
+I see a product from the user's side first. I do not only think about how something can be built, even though I know that part very well. The more important question is how it should be used. What is the person really trying to achieve? What will feel natural? What should happen automatically? Which pieces of complexity should they never have to see?
 
-- **Languages**: Python, JavaScript.
-- **Frameworks**: FastAPI, Flask, Django, SQLAlchemy, Pydantic.
-- **Databases**: PostgreSQL, MongoDB.
-- **UI**: Streamlit, Jinja2, HTML, CSS, Bootstrap.
-- **Imagery**: OpenCV, Pillow, NumPy, Matplotlib, scikit-image.
-- **Geospatial**: Rasterio, Shapely, GeoPandas, Folium, Pyproj, osmnx.
-- **Point clouds**: Open3D, pypcd4.
-- **Tools**: Git, Docker, Portainer, Metabase.
-- **Cloud**: AWS, DigitalOcean.
-- **Networking**: HTTP, TLS, WebSocket, REST API.
-- **Other**: Linux, Bash, Nginx, Certbot, RabbitMQ, CI/CD, GitHub Actions.
-- **Soft skills**: Teamwork, communication, problem-solving, adaptability, time management, attention to detail.
-- **Languages**: English (C1), Russian (native).
+I turn technical experience and deep domain knowledge into real product planning. I can take a rough idea, find the valuable part inside it, shape the experience around the people who need it, and carry that intent through architecture, implementation, release, and operation. The same principle applies to any difficult system: understand the complexity completely, then refuse to pass that complexity on to the user.
 
-I have extensive experience in building web applications, APIs, designing and implementing SDKs from scratch and also a huge experience with working with all kinds of imageries and geospatial data. I have a strong background in building and maintaining complex systems, and I'm always looking for new challenges to tackle.
+I notice rough edges. The unnecessary click, the confusing word, the workflow that makes perfect sense to the developer and no sense to anyone else. I keep polishing, watching how people actually use the product, questioning old decisions, and improving it again. The perfect product is impossible, which is slightly inconvenient because I intend to keep moving toward it anyway.
 
-### Courses and certifications
+#### Do slightly unreasonable things with maps
 
-- [Roadmap.sh](https://roadmap.sh/u/iwatkot)
-- [Certified Python Developer](https://verify.w3schools.com/62F5EI7L7)
-- [Certified SQL Developer](https://verify.w3schools.com/1OO72DMUMB)
-- [Network Engineering](https://www.udemy.com/certificate/UC-7ee618b4-07c8-426c-a01c-a0b2bce822f1)
-- [Async Python](https://www.udemy.com/certificate/UC-e8056c59-2963-48d8-bae8-cb96bdfcd719)
+GIS is not just my deepest specialist domain. It is the part I genuinely love. Give me terrain, imagery, OpenStreetMap data, strange coordinate systems, or two datasets that insist the same point exists in two different places, and I am happy. I know the pleasant parts, the ugly parts, and quite a few parts that probably should not be possible but somehow are.
 
-### Showcase repositories
+There is something beautiful about taking the huge, messy physical world, understanding it through data, and turning it into a tool that lets someone create a world of their own.
 
-- [py3xui](https://github.com/iwatkot/py3xui) - sync and async object-oriented API wrapper for the [3x-ui](https://github.com/MHSanaei/3x-ui) panel. It allows you to interact with the API using friendly and easy-to-use methods along with Pydantic models.
-- [maps4fs](https://github.com/iwatkot/maps4fs) - a powerful tool for generating maps for the Farming Simulator games using real-world data. It uses different APIs and sources to obtain DTM (Digital Terrain Model), covering the world and some HQ sources for specific countries to generate in-game terrain, as well as generating 3D meshes. It also uses OpenStreetMap data to generate roads, fields, forests, and other objects. On top of that, it collects the usage statistics using FastAPI, MongoDB, Portainer, and Metabase to store, visualize, and analyze the data. The project offers a Python library, RESTful API, and a GUI version based on Streamlit and packed into a Docker container.
+
+### MapToPlay
+
+I am the creator and sole developer of [MapToPlay](https://maptoplay.com), a platform that helps people turn real-world geographic data into playable maps and game mods.
+
+MapToPlay brings together terrain models, imagery, OpenStreetMap data, multiple geospatial providers, a live editor, and exports for games including Farming Simulator, Minecraft, and Project Zomboid. It started as maps4fs and, apparently unaware that side projects are supposed to stay small, grew into a complete platform used by creators around the world.
+
+I built all of it myself: the product and UX, system architecture, application and data layers, geospatial processing engines, background workloads, provider integrations, infrastructure, deployment, operations, documentation, and user support. There is no mysterious other department to blame. I checked.
+
+MapToPlay is built around the same belief. A creator should spend time deciding what kind of world they want to make, not downloading tiles, reconciling coordinate systems, processing terrain, or repeating fifty mechanical steps before creativity can even begin. The platform does the machine work so they can do the human work.
+
+Building MapToPlay solo means following every problem from a person's idea, through spatial mathematics and distributed processing, all the way to a working result on their screen. It is the clearest example of how I work. I can hold a large, complicated system together, build and run every part of it, and still remember that the point is not the system. The point is what somebody gets to create with it, and the time they get to spend creating it.
