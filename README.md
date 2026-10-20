@@ -1,3 +1,5 @@
+<img src="images/header-dark.png" width="838" alt="Stan Soldatov. Head of Solutions Engineering at Supervisely, creator of MapToPlay">
+
 ## Hi! I'm Stan 👋
 
 I'm a software engineer. That's the short and slightly boring version.
@@ -35,7 +37,16 @@ GIS is not just my deepest specialist domain. It is the part I genuinely love. G
 There is something beautiful about taking the huge, messy physical world, understanding it through data, and turning it into a tool that lets someone create a world of their own.
 
 
+### Supervisely
+
+<a href="https://supervisely.com"><img src="images/supervisely-banner-dark.png" width="838" alt="Supervisely"></a>
+
+I'm Head of Solutions Engineering at [Supervisely](https://supervisely.com), a platform that keeps all of computer vision in one place, from labeling images, video, audio, 3D point clouds, meshes and medical scans to building entire Active Learning pipelines. My job is turning all of that into something that actually works for a team, with integrations, custom apps and the data problems nobody wants to own. Drawing the same box around the same car for the thousandth time is machine work, and people should get back to the part that needs a person.
+
+
 ### MapToPlay
+
+<a href="https://maptoplay.com"><img src="images/maptoplay-banner-dark.png" width="838" alt="MapToPlay. Real places turned into playable game maps"></a>
 
 I am the creator and sole developer of [MapToPlay](https://maptoplay.com), a platform that helps people turn real-world geographic data into playable maps and game mods.
 
@@ -46,3 +57,7 @@ I built all of it myself: the product and UX, system architecture, application a
 MapToPlay is built around the same belief. A creator should spend time deciding what kind of world they want to make, not downloading tiles, reconciling coordinate systems, processing terrain, or repeating fifty mechanical steps before creativity can even begin. The platform does the machine work so they can do the human work.
 
 Building MapToPlay solo means following every problem from a person's idea, through spatial mathematics and distributed processing, all the way to a working result on their screen. It is the clearest example of how I work. I can hold a large, complicated system together, build and run every part of it, and still remember that the point is not the system. The point is what somebody gets to create with it, and the time they get to spend creating it.
+
+### Find me
+
+[maptoplay.com](https://maptoplay.com) · [MapToPlay Discord](https://maptoplay.com/go/discord) · [YouTube](https://maptoplay.com/go/youtube) · [LinkedIn](https://www.linkedin.com/in/iwatkot/)
