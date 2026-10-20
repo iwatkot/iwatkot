@@ -41,7 +41,7 @@ There is something beautiful about taking the huge, messy physical world, unders
 
 <a href="https://supervisely.com"><img src="images/supervisely-banner-dark.png" width="838" alt="Supervisely"></a>
 
-I'm Head of Solutions Engineering at [Supervisely](https://supervisely.com), a platform that keeps all of computer vision in one place: labeling images, video, 3D point clouds and medical scans, managing the data, and training and deploying models. My job is turning it into pipelines that actually work for a team, with integrations, custom apps and the data problems nobody wants to own. Drawing the same box around the same car for the thousandth time is machine work, and people should get back to the part that needs a person.
+I'm Head of Solutions Engineering at [Supervisely](https://supervisely.com), a platform that keeps all of computer vision in one place: labeling images, video, audio, 3D point clouds, meshes and medical scans, managing the data, and training and deploying models. My job is turning it into pipelines that actually work for a team, with integrations, custom apps and the data problems nobody wants to own. Drawing the same box around the same car for the thousandth time is machine work, and people should get back to the part that needs a person.
 
 
 ### MapToPlay
